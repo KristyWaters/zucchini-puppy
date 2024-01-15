@@ -1,8 +1,5 @@
 // Kristy Waters
-// OSU CS374, Spring 2023 
-// Assignment 3: Small Shell
-// DUE: Sunday Nov 12th, 2023
-// Parts reused from Spring 2023
+// OSU Small Shell Project
 
 #define _POSIX_C_SOURCE 200809L
 #define _GNU_SOURCE
